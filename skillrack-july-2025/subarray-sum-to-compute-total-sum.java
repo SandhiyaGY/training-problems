@@ -1,4 +1,4 @@
-//Problem Statement : Given an array return the maximum sum of sub array used to calculate the total sum
+//Problem Statement : Given an array return the minimum sum of sub array used to calculate the total sum
 //Example: 
 // Input:[10,5,2,6,3,18]
 // Output:101
