@@ -48,10 +48,10 @@ public class Hello {
             if (tilt >= arr[i] - 1) {
                 tilt += arr[i];
             } else {
-                System.out.println(tilt + 1);
                 break;
             }
         }
+        System.out.println(tilt + 1);
 
         sc.close();
     }
